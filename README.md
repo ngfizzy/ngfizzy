@@ -11,7 +11,7 @@ Senior software engineer building reliable backend systems, practical AI workflo
 
 ## What I work on
 
-- Reliable backend systems and APIs
+- Reliable backend systems, developer platforms, and production infrastructure
 - Developer tooling and documentation grounded in real runtime behavior
 - Practical AI-agent workflows
 
