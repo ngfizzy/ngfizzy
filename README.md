@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Olufisayo Bamidele
 
-<!--
-**ngfizzy/ngfizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and platform engineer building reliable APIs, developer tooling, and AI-agent workflows.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**skills**](https://github.com/ngfizzy/skills) — portable, vendor-neutral agent skills for tracing runtime behavior, debugging, and technical documentation.
+- [**service-provider-directory**](https://github.com/ngfizzy/service-provider-directory) — a Laravel/Vue service-provider directory case study with production-oriented design decisions.
+- [**express-auth**](https://github.com/ngfizzy/express-auth) — a TypeScript and Express authentication API using PostgreSQL, TypeORM, Docker, and SMS-based two-factor authentication.
+- [**blog-demos**](https://github.com/ngfizzy/blog-demos) — runnable code and examples that accompany my technical writing.
+
+## What I work on
+
+- Reliable backend systems and APIs
+- Developer tooling and documentation grounded in real runtime behavior
+- Practical AI-agent workflows
+
+Thanks for stopping by.
