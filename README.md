@@ -1,6 +1,6 @@
 # Hi, I'm Olufisayo Bamidele
 
-Backend and platform engineer building reliable APIs, developer tooling, and AI-agent workflows.
+Senior software engineer building reliable backend systems, practical AI workflows, and developer platforms.
 
 ## Featured work
 
