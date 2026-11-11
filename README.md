@@ -5,7 +5,9 @@ Senior software engineer building reliable backend systems, practical AI workflo
 ## Featured work
 
 - [**skills**](https://github.com/ngfizzy/skills) — portable, vendor-neutral agent skills for tracing runtime behavior, debugging, and technical documentation.
-- [**service-provider-directory**](https://github.com/ngfizzy/service-provider-directory) — a Laravel/Vue service-provider directory case study with production-oriented design decisions.
+- [**skill-evals**](https://github.com/ngfizzy/skill-evals) — a CLI for testing
+  how agents respond to skills and simulated scenarios, with separate operator and
+  judge sessions, explicit criteria, and inspectable saved evidence.
 - [**express-auth**](https://github.com/ngfizzy/express-auth) — a TypeScript and Express authentication API using PostgreSQL, TypeORM, Docker, and SMS-based two-factor authentication.
 - [**blog-demos**](https://github.com/ngfizzy/blog-demos) — runnable code and examples that accompany my technical writing.
 
